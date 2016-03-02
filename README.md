@@ -4,6 +4,5 @@ create a tiny Virtual Machine which is related to our research topic Virtual Mac
 ##### Concrete methodology: 
 * (i) created a disassembler for minix
 
-![sample](sample.png =535x300)
-
+<img src="sample.png" width="535" height="300">
 ------------------
